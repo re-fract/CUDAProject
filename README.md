@@ -8,12 +8,12 @@ Example input and output are in data/sloth.png and data/sloth-gray.png. Run it u
 
 # Code Organization
 
-bin/ This folder holds all binary/executable code that is built automatically or manually.
+```bin/``` This folder holds all binary/executable code that is built automatically or manually.
 
-data/ This folder holds all example data in any format.
+```data/``` This folder holds all example data in any format.
 
-src/ The source code for this project.
+```src/``` The source code for this project.
 
-README.md The description of the project so that anyone cloning or deciding if they want to clone this repository can understand its purpose to help with their decision.
+```README.md``` The description of the project so that anyone cloning or deciding if they want to clone this repository can understand its purpose to help with their decision.
 
-Makefile Script for building this project's code
+```Makefile``` Script for building this project's code
